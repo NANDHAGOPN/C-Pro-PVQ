@@ -1,5 +1,5 @@
 Write a C program for displaying the prime numbers in a mXn matrix. [KTU, APRIL
-2018]
+2018]?
 
 #include <stdio.h>
 void main()

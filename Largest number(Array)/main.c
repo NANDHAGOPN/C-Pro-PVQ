@@ -1,4 +1,4 @@
-Write a program to find largest element in an array of size n?
+Write a program to find largest element in an array of size n ?
 
 #include<stdio.h>
 void main()

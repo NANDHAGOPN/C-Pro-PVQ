@@ -1,5 +1,5 @@
 Write a C program to check whether a given matrix is a diagonal matrix. [KTU,
-MODEL 2020]
+MODEL 2020]?
 
 
 #include <stdio.h>

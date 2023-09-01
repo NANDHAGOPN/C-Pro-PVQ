@@ -1,5 +1,5 @@
 Write a C program to read two sorted arrays and merge them into a single array.
-[KTU, MAY 2019]
+[KTU, MAY 2019]?
 
 #include <stdio.h>
 void main()

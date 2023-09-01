@@ -1,4 +1,4 @@
-Write a program to read a matrix of size mXn and display its transpose?
+Write a program to read a matrix of size mXn and display its transpose ?
 
 #include<stdio.h>
 void main()

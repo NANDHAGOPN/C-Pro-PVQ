@@ -1,5 +1,5 @@
 Write a C program to accept a 2-D integer matrix and check whether it is symmetric
-or not. [KTU, APRIL 2018]
+or not. [KTU, APRIL 2018]?
 
 #include<stdio.h>
 void main()

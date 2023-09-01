@@ -1,5 +1,5 @@
 Write a C program to find the largest and smallest numbers and their locations in an
-array of n numbers. [KTU, JULY 2017]
+array of n numbers. [KTU, JULY 2017]?
 
 #include <stdio.h>
 void main()

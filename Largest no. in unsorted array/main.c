@@ -1,5 +1,5 @@
 Write a C program to find the second largest element of an unsorted array. [KTU,
-DECEMBER 2018], [KTU, DECEMBER 2019]
+DECEMBER 2018], [KTU, DECEMBER 2019]?
 
 #include <stdio.h>
 
