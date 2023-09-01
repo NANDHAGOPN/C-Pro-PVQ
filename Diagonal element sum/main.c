@@ -1,5 +1,5 @@
-//Write a program to read a matrix of size mXn and display the sum of principal
-//diagonal elements.
+Write a program to read a matrix of size mXn and display the sum of principal
+diagonal elements?
 #include<stdio.h>
 void main()
 {

@@ -1,5 +1,5 @@
 Write a C program to sort names in an array in lexicographical order. [KTU,
-DECEMBER 2018]
+DECEMBER 2018]?
 
 #include <stdio.h>
 #include <string.h>

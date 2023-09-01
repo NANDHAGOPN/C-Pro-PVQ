@@ -1,5 +1,5 @@
 Write a C program to check whether a character is present in a string. [KTU, APRIL
-2018]
+2018] ?
 
 
 #include <stdio.h>

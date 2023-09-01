@@ -1,5 +1,5 @@
 Write a program to read a matrix, replace all negative elements of the matrix by zero
-and print the resulting array. [KTU, APRIL 2018]
+and print the resulting array. [KTU, APRIL 2018]?
 
 #include <stdio.h>
 

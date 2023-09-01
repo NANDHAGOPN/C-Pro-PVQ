@@ -1,5 +1,5 @@
 Write a C program to accept a two dimensional matrix and display the row sum,
-column sum and diagonal sum of elements. [KTU, MAY 2019]
+column sum and diagonal sum of elements. [KTU, MAY 2019]?
 
 #include <stdio.h>
 void main()
